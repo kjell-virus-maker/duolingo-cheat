@@ -4,7 +4,7 @@
 // @version      0.1
 // @description  Auto answer Duolingo script!
 // @author       Le Duc Anh <leanhlda2011@gmail.com>
-// @match        https://www.duolingo.com/skill*
+// @match        https://www.duolingo.com/practice*
 // @icon         https://www.google.com/s2/favicons?domain=duolingo.com
 // @grant        none
 // ==/UserScript==
